@@ -3,8 +3,6 @@
 This project implements a Deep Q-Learning algorithm to play the ConnectX game, a variant of Connect Four, using reinforcement learning techniques. The code adapts insights from other deep reinforcement learning implementations, tailored specifically for ConnectX on the Kaggle platform.
 
 ## Citation
-This README was written with assistance from OpenAI's ChatGPT, based on user instructions and information provided by:
-
 1. Phung Hieu's Kaggle Notebook "ConnectX with Deep Q-Learning":
    [Kaggle Link](https://www.kaggle.com/code/phunghieu/connectx-with-deep-q-learning)
 2. Benedikt's article "Deep Reinforcement Learning: Build a Deep Q-Network (DQN) to play CartPole with TensorFlow 2 and Gym":
